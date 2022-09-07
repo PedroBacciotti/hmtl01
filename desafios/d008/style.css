@@ -1,0 +1,15 @@
+body {
+    background-color: darkcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    align-items: center;
+    text-align: center;
+    
+}
+
+h1 {
+    color: rgb(7, 66, 5);
+}
+p {
+    color: rgb(7, 66, 5)
+}
